@@ -1,10 +1,6 @@
 # Define a daysBetweenDates procedure that would produce the
 # correct output if there was a correct nextDay procedure.
-#
-# Note that this will NOT produce correct ouptuts yet, since
-# our nextDay procedure assumes all months have 30 days
-# (hence a year is 360 days, instead of 365).
-#
+
 
 
 #days = 0
